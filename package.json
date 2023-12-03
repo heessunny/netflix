@@ -25,6 +25,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://dazzling-churros-647c71.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
