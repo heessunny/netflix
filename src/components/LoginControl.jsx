@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 
 function LoginControl() {
-  const [login, setIsLogged] = useState(false);
+  const [login] = useState(false);
 
   /*const handleLoginChange = (isLoggedIn) => {
     setIsLogged(isLoggedIn);
